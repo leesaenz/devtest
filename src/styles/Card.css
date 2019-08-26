@@ -76,4 +76,26 @@
   width: 100%;
   max-height: 460px;
   height: auto;
-  box-shadow: 0 10px 20px 0 rgba(46, 91, 255, 0.07); }
+  box-shadow: 0 10px 20px 0 rgba(46, 91, 255, 0.07);
+  flex-grow: 1; }
+  .card .spacer {
+    flex-grow: 1; }
+  .card.col-full {
+    width: 100%;
+    max-width: 1136px; }
+  .card.col-half {
+    width: 568px; }
+  .card.col-quarter {
+    width: 264px;
+    margin: 10px 10px 0; }
+  .card.col-third {
+    width: 363px; }
+  .card.col-two-third {
+    width: 752px; }
+  .card.large {
+    height: 460px; }
+  .card.medium {
+    height: 352px; }
+  .card.small {
+    height: 176px;
+    margin-top: 24px; }

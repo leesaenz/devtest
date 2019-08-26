@@ -7,4 +7,43 @@
     max-height: 460px;
     height:auto;
     box-shadow: 0 10px 20px 0 rgba(46,91,255,0.07);
+    flex-grow: 1;
+
+    .spacer {flex-grow:1;}
+
+    &.col-full {
+        width:100%;
+        max-width:1136px;
+    }
+
+    &.col-half {
+        width: 568px;
+    }
+
+    &.col-quarter {
+        
+        width:264px;
+        margin: 10px 10px 0;
+    }
+
+    &.col-third {
+        width:363px;
+    }
+
+    &.col-two-third {
+        width:752px;
+    }
+
+    &.large {
+        height: 460px;
+    }
+
+    &.medium {
+        height:352px;
+    }
+
+    &.small {
+        height:176px;
+        margin-top:24px;
+    }
 }

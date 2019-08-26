@@ -7,6 +7,8 @@ header {
     height:80px;
     border-bottom:1px solid $border;
     padding-top:18px;
+    position: fixed;
+    top: 0;
 
     nav.top-menu {
         display: -ms-flexbox;
@@ -18,7 +20,17 @@ header {
         align-content: stretch;
         align-items:center;
 
-        a {
+        .mobile-menu {
+            display:none;
+            
+            i {
+                font-size:1em;
+            }
+        }
+    
+
+        a.logo-link,
+        .page-header {
             align-self:auto;
             flex: 0 1 auto;
 
@@ -33,6 +45,10 @@ header {
                 width:102px;
                 height:auto;
             }
+        }
+
+        .page-header {
+            display:none;
         }
 
         ul {
@@ -67,4 +83,103 @@ header {
     position:absolute;
     top:-2px;
     right:6px;
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+    header {
+        padding-top:22px;
+        nav.top-menu {
+            .mobile-menu {
+                display:block;
+            }
+
+            a.logo-link,
+            .page-header {
+                margin:auto;
+                flex-grow:1;
+                margin:0;
+
+                h1 {
+                    position:relative;
+                    left:50px;
+                }
+            }
+            
+
+            ul {
+                li {
+                    i {
+                        font-size:1.4em;
+                    }
+
+                    .profile-pic {
+                        width:90%;
+                        height:auto;
+                        margin-right:0;
+                    }
+
+                    &:last-child {
+                        a {
+                            margin-right:0;
+                        }
+                        
+                    }
+                }
+            }
+        }
+    }  
+}
+
+@media only screen and (max-width:475px) {
+    header {
+        height:51px;
+        padding-top:14px;
+        nav.top-menu {
+            a.logo-link {
+                display:none;
+
+                h1 {
+                    background:none;
+                }
+            }
+
+            .page-header {
+                display:block;
+                font-size:0.95em;
+                flex-grow:1;
+                margin:0 auto;
+                text-align:center;
+            }
+            ul:last-child {
+                li {
+                    i {
+                        font-size:1.2em;
+                    }
+
+                    
+                    &:nth-child(2),
+                    &:last-child {
+                        display:none;
+                        
+                    }
+                }
+            }
+        }
+    }  
+
+    main {
+        padding-top:25px;
+
+        .content-header {
+            display:none;
+        }
+    }
+
+    .notification {
+        width: 9px;
+        height:9px;
+    }
 }

@@ -8,7 +8,13 @@ function Header() {
       <header className="header">
         <div className="container-no-margin">
           <nav className="top-menu">
-            <NavLink exact to="/"><h1 className="logo">Velocity</h1></NavLink>
+            <ul className="mobile-menu">
+              <li>
+                <i className="icon icon-menu"></i>
+              </li>
+            </ul>
+            <NavLink className="logo-link" exact to="/"><h1 className="logo">Velocity</h1></NavLink>
+            <h1 className="page-header">Analytics</h1>
             <ul>
               <li>
                 <NavLink exact to="/"><i className="icon icon-bell"></i><span className="notification"></span></NavLink>
