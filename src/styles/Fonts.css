@@ -1,3 +1,28 @@
 @import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap");
 body {
-  font-family: 'Rubik', sans-serif; }
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  font-weight: 400; }
+
+h1 {
+  font-size: 2.4em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h2, h3, h4, p, caption {
+  color: #8698ae; }
+
+h2 {
+  font-size: 2.26em;
+  font-weight: 300; }
+
+h3 {
+  font-size: 1.86em;
+  font-weight: 300; }
+
+h4 {
+  font-weight: 500; }
+
+caption {
+  font-size: 0.86em;
+  font-weight: 400; }
