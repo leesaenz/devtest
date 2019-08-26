@@ -47,7 +47,8 @@ header {
   border-bottom: 1px solid #E4E8F0;
   padding-top: 12px;
   position: fixed;
-  top: 0; }
+  top: 0;
+  z-index: 1; }
   header nav.top-menu {
     display: -ms-flexbox;
     display: -webkit-flex;
