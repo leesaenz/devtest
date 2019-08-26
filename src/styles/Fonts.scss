@@ -1,5 +1,4 @@
 @import 'Colors.scss';
-@charset "UTF-8";
 
 @font-face {
   font-family: "shapeshift";
@@ -77,4 +76,7 @@
 }
 .icon-menu:before {
   content: "\6d";
+}
+.icon-bell:before {
+  content: "\6e";
 }

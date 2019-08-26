@@ -68,6 +68,9 @@
 .icon-menu:before {
   content: "\6d"; }
 
+.icon-bell:before {
+  content: "\6e"; }
+
 html, body {
   height: 100%; }
 
