@@ -1,0 +1,37 @@
+@import 'Colors';
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap');
+
+body {
+    font-family:'Rubik', sans-serif;
+    font-size:20px; //Converted from 15pts.  Base page font size.
+    font-weight:400;
+}
+
+h1 {
+    font-size: 2.4em; //48pt
+    font-weight:300;
+    color:$headerText;
+}
+
+h2, h3, h4, p, caption {
+    color:$bodyText;
+}
+
+h2 {
+    font-size:2.26em; //34pt
+    font-weight:300;
+}
+
+h3 {
+    font-size: 1.86em; //28pt
+    font-weight:300;
+}
+
+h4 {
+    font-weight:500;
+}
+
+caption {
+    font-size: 0.86em; //13pt
+    font-weight:400;
+}

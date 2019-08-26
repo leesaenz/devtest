@@ -1,0 +1,33 @@
+//Function agnostic color name variables.  Do not use these variables except to tie to functional variables.
+$white: #ffffff;
+$blue: #2954FF;
+$lightgray: #f3f5fc;
+$gray: #bfc5de;
+$stone: #8698ae;
+$darkgray: #2e384e;
+$sunlight: #fef6e1;
+$honey: #f8c21e;
+$lavendar: #eee5ff;
+$plum: #8c4bff;
+$sky: #d8f6f9;
+$teal: #00c3d7;
+$avocado: #e1f3df;
+$lime: #2bae22;
+
+//Functional variable mapping.
+//This is so if we change colors and color names later, they won't affect any functional variables we have in place.  Functional variables should be used in front end code.
+
+$white: $white;
+$notification: $blue;
+$background: $lightgray;
+$icon: $gray;
+$bodyText: $stone;
+$headerText: $darkgray;
+$onTrack: $avocado;
+$onTrackText: $lime;
+$distance: $sky;
+$distanceText: $teal;
+$energy: $lavendar;
+$energyText: $plum;
+$time: $sunlight;
+$timeText: $honey;
