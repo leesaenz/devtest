@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="704px" height="333px" viewBox="0 0 704 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Module/Card/Bar Chart Medium 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Module/Card/Bar-Chart-Medium" transform="translate(-24.000000, -92.000000)">
+            <g id="Module/Card/Bar-Chart-Medium-2" transform="translate(24.000000, 88.000000)">
+                <g id="Module/Card/Bar-Chart-Medium">
+                    <g id="Grid" transform="translate(32.000000, 32.000000)" stroke-linecap="square">
+                        <g id="vertical" opacity="0.5" transform="translate(70.000000, 1.000000)" stroke="#8097B1" stroke-dasharray="2,2,2" stroke-width="0.5">
+                            <path d="M1.04761905,0.750753729 L1.04761905,278.323374" id="Line-1" opacity="0.606809701"></path>
+                            <path d="M72.2857143,0.750753729 L72.2857143,278.323374" id="Line-2" opacity="0.606809701"></path>
+                            <path d="M143.52381,0.750753729 L143.52381,278.323374" id="Line-3" opacity="0.606809701"></path>
+                            <path d="M214.761905,0.750763636 L214.761905,278.323374" id="Line-4" opacity="0.606809701"></path>
+                            <path d="M286,0.750753729 L286,278.323374" id="Line-1" opacity="0.606809701"></path>
+                            <path d="M357.238095,0.750753729 L357.238095,278.323374" id="Line-2" opacity="0.606809701"></path>
+                            <path d="M428.47619,0.750753729 L428.47619,278.323374" id="Line-3" opacity="0.606809701"></path>
+                            <path d="M499.714286,0.750763636 L499.714286,278.323374" id="Line-4" opacity="0.606809701"></path>
+                            <path d="M570.952381,0.750753729 L570.952381,278.323374" id="Line-1" opacity="0.606809701"></path>
+                        </g>
+                        <g id="horizontal" opacity="0.5" transform="translate(1.000000, 0.000000)" stroke="#8097B1" stroke-dasharray="2,2,2,2" stroke-width="0.5">
+                            <path d="M1.39087953,231.240175 L670.006356,231.240175" id="Line-3" opacity="0.756413246"></path>
+                            <path d="M0.243423921,185.650655 L668.8589,185.650655" id="Line-4" opacity="0.756413246"></path>
+                            <path d="M1.39087953,139.048035 L670.006356,139.048035" id="Line-5" opacity="0.756413246"></path>
+                            <path d="M0.243423921,92.4454148 L668.8589,92.4454148" id="Line-6" opacity="0.756413246"></path>
+                            <path d="M1.39087953,46.8558952 L670.006356,46.8558952" id="Line-5" opacity="0.756413246"></path>
+                            <path d="M0.243423921,0.253275109 L668.859002,0.253275109" id="Line-6" opacity="0.756413246"></path>
+                        </g>
+                        <path d="M1,1 L1,279" id="Line" stroke="#E0E7FF"></path>
+                        <path d="M1,279.5 L671.5,279.5" id="Line" stroke="#E0E7FF"></path>
+                    </g>
+                    <g id="Chart-Figure" transform="translate(85.000000, 69.000000)">
+                        <g id="Bars" transform="translate(534.000000, 25.000000)">
+                            <path d="M3.5,0 C5.43299662,-3.55085719e-16 7,1.56700338 7,3.5 L7,213.5 C7,215.432997 5.43299662,217 3.5,217 C1.56700338,217 2.36723813e-16,215.432997 0,213.5 L0,3.5 C-2.36723813e-16,1.56700338 1.56700338,3.55085719e-16 3.5,0 Z" id="Bar" fill="#2E5BFF"></path>
+                            <rect id="Bar" fill="#8C54FF" x="13" y="4" width="7" height="213" rx="3.5"></rect>
+                        </g>
+                        <g id="Bars-" transform="translate(458.000000, 123.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="0" width="7" height="119" rx="3.5"></rect>
+                            <rect id="Bar" fill="#8C54FF" x="13" y="34" width="7" height="85" rx="3.5"></rect>
+                        </g>
+                        <g id="Bars-" transform="translate(366.000000, 123.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="17" width="7" height="102" rx="3.5"></rect>
+                            <rect id="Bar" fill="#8C54FF" x="13" y="0" width="7" height="119" rx="3.5"></rect>
+                        </g>
+                        <g id="Bars" transform="translate(275.000000, 0.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="0" width="7" height="242" rx="3.5"></rect>
+                            <rect id="Bar" fill="#8C54FF" x="13" y="67" width="7" height="175" rx="3.5"></rect>
+                        </g>
+                        <g id="Bars-" transform="translate(183.000000, 77.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="23" width="7" height="142" rx="3.5"></rect>
+                            <path d="M16.5,0 C18.4329966,-3.55085719e-16 20,1.56700338 20,3.5 L20,161.5 C20,163.432997 18.4329966,165 16.5,165 C14.5670034,165 13,163.432997 13,161.5 L13,3.5 C13,1.56700338 14.5670034,3.55085719e-16 16.5,0 Z" id="Bar" fill="#8C54FF"></path>
+                        </g>
+                        <g id="Bars" transform="translate(92.000000, 103.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="19" width="7" height="120" rx="3.5"></rect>
+                            <path d="M16.5,0 C18.4329966,-3.55085719e-16 20,1.56700338 20,3.5 L20,135.5 C20,137.432997 18.4329966,139 16.5,139 C14.5670034,139 13,137.432997 13,135.5 L13,3.5 C13,1.56700338 14.5670034,3.55085719e-16 16.5,0 Z" id="Bar" fill="#8C54FF"></path>
+                        </g>
+                        <g id="Bars-" transform="translate(0.000000, 65.000000)">
+                            <path d="M3.5,25 C5.43299662,25 7,26.5670034 7,28.5 L7,173.5 C7,175.432997 5.43299662,177 3.5,177 C1.56700338,177 2.36723813e-16,175.432997 0,173.5 L0,28.5 C-1.12490223e-15,26.5670034 1.56700338,25 3.5,25 Z" id="Bar" fill="#2E5BFF"></path>
+                            <path d="M16.5,0 C18.4329966,-3.55085719e-16 20,1.56700338 20,3.5 L20,173.5 C20,175.432997 18.4329966,177 16.5,177 C14.5670034,177 13,175.432997 13,173.5 L13,3.5 C13,1.56700338 14.5670034,3.55085719e-16 16.5,0 Z" id="Bar" fill="#8C54FF"></path>
+                        </g>
+                        <g id="Dot-Chart-" transform="translate(11.000000, 10.000000)" stroke="#F7C137" stroke-width="2">
+                            <polyline id="Path-4" points="6 34 97 75.5 188.5 45 280.5 34 371 96 464.5 131 540.5 3"></polyline>
+                            <circle id="Oval" fill="#FFFFFF" cx="4" cy="33" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="98" cy="76" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="189" cy="45" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="280" cy="35" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="372" cy="96" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="464" cy="130" r="3"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="540" cy="4" r="3"></circle>
+                        </g>
+                    </g>
+                    <g id="Dates" transform="translate(80.000000, 320.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                        <text id="Mon">
+                            <tspan x="0.2325" y="14">Mon</tspan>
+                        </text>
+                        <text id="Tue">
+                            <tspan x="93.98" y="14">Tue</tspan>
+                        </text>
+                        <text id="Wed">
+                            <tspan x="274.86" y="14">Wed</tspan>
+                        </text>
+                        <text id="Thu">
+                            <tspan x="457.62" y="14">Thu</tspan>
+                        </text>
+                        <text id="Fri">
+                            <tspan x="189.5075" y="14">Fri</tspan>
+                        </text>
+                        <text id="Sat">
+                            <tspan x="369.315" y="14">Sat</tspan>
+                        </text>
+                        <text id="Sun">
+                            <tspan x="536.82" y="14">Sun</tspan>
+                        </text>
+                    </g>
+                    <g id="Numbers" transform="translate(0.000000, 27.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                        <text id="25">
+                            <tspan x="8.36" y="238">25</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="16.505" y="283">0</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="7.625" y="193">50</tspan>
+                        </text>
+                        <text id="75">
+                            <tspan x="9.47" y="148">75</tspan>
+                        </text>
+                        <text id="100">
+                            <tspan x="0.635" y="104">100</tspan>
+                        </text>
+                        <text id="125">
+                            <tspan x="1.985" y="59">125</tspan>
+                        </text>
+                        <text id="150">
+                            <tspan x="1.25" y="14">150</tspan>
+                        </text>
+                    </g>
+                    <g id="Legend" transform="translate(426.000000, 0.000000)">
+                        <g id="Group-3">
+                            <text id="Comfort" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Comfort</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#2E5BFF" cx="5" cy="11" r="5"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(100.000000, 0.000000)">
+                            <text id="Premium" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Premium</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#8C54FF" cx="5" cy="11" r="5"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(202.000000, 0.000000)">
+                            <text id="Average" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Average</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#FAD050" cx="5" cy="11" r="5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

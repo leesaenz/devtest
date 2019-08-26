@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="263px" viewBox="0 0 284 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Module/Card/Bar Chart #2 Mobile Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Module/Card/Bar-Chart-#2-Mobile" transform="translate(-20.000000, -69.000000)">
+            <g id="Module/Card/Bar-Chart-#2-Mobile-Copy" transform="translate(19.000000, 65.000000)">
+                <g id="Group-8" transform="translate(0.807018, 0.000000)">
+                    <g id="Grid" transform="translate(36.216718, 37.834423)" stroke-linecap="square">
+                        <g id="vertical" opacity="0.5" transform="translate(61.713106, 1.122728)" stroke="#8097B1" stroke-dasharray="2,2,2" stroke-width="0.5">
+                            <path d="M0.25,0.825837087 L0.25,206.955904" id="Line-1" opacity="0.606809701"></path>
+                            <path d="M61.0687135,0.825837087 L61.0687135,206.955904" id="Line-2" opacity="0.606809701"></path>
+                            <path d="M120.993034,0.825837087 L120.993034,206.955904" id="Line-3" opacity="0.606809701"></path>
+                            <path d="M181.811748,0.825837087 L181.811748,206.955904" id="Line-4" opacity="0.606809701"></path>
+                        </g>
+                        <g id="horizontal" opacity="0.5" transform="translate(0.894393, 0.000000)" stroke="#8097B1" stroke-dasharray="2,2,2,2" stroke-width="0.5">
+                            <path d="M0.623947911,156.339874 L243.004409,156.339874" id="Line-3" opacity="0.756413246"></path>
+                            <path d="M0.207982637,102.44893 L242.588444,102.44893" id="Line-4" opacity="0.756413246"></path>
+                            <path d="M0.623947911,51.9261699 L243.004409,51.9261699" id="Line-5" opacity="0.756413246"></path>
+                            <path d="M0.207982637,1.40341 L242.588444,1.40341" id="Line-6" opacity="0.756413246"></path>
+                        </g>
+                        <path d="M0.447196422,2.3505207 L0.447196422,207.87396" id="Line" stroke="#E0E7FF"></path>
+                        <path d="M1.10237548,208.266044 L243.482836,208.266044" id="Line" stroke="#E0E7FF"></path>
+                    </g>
+                    <g id="X-Y-titles" transform="translate(0.000000, 31.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                        <text id="25">
+                            <tspan x="8.36" y="164">25</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="16.505" y="216">0</tspan>
+                        </text>
+                        <text id="Mon">
+                            <tspan x="54.2055875" y="233">Mon</tspan>
+                        </text>
+                        <text id="Tue">
+                            <tspan x="114.953088" y="233">Tue</tspan>
+                        </text>
+                        <text id="Fri">
+                            <tspan x="179.011482" y="233">Fri</tspan>
+                        </text>
+                        <text id="Wed">
+                            <tspan x="238.583031" y="233">Wed</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="7.625" y="111">50</tspan>
+                        </text>
+                        <text id="75">
+                            <tspan x="9.47" y="61">75</tspan>
+                        </text>
+                        <text id="100">
+                            <tspan x="0.635" y="14">100</tspan>
+                        </text>
+                    </g>
+                    <g id="Chart" transform="translate(60.899013, 67.570791)">
+                        <g id="Group-9" transform="translate(0.000000, 35.381856)">
+                            <path d="M3,20.209104 C4.65685425,20.209104 6,21.5522497 6,23.209104 L6,139.586456 C6,141.24331 4.65685425,142.586456 3,142.586456 C1.34314575,142.586456 2.02906125e-16,141.24331 0,139.586456 L0,23.209104 C-2.02906125e-16,21.5522497 1.34314575,20.209104 3,20.209104 Z" id="Bar" fill="#2E5BFF"></path>
+                            <path d="M14.6216746,0 C16.2785288,-3.04359188e-16 17.6216746,1.34314575 17.6216746,3 L17.6216746,139.586456 C17.6216746,141.24331 16.2785288,142.586456 14.6216746,142.586456 C12.9648203,142.586456 11.6216746,141.24331 11.6216746,139.586456 L11.6216746,3 C11.6216746,1.34314575 12.9648203,3.04359188e-16 14.6216746,0 Z" id="Bar" fill="#8C54FF"></path>
+                        </g>
+                        <g id="Group-9" transform="translate(119.730047, 47.000000)">
+                            <path d="M3,27.7502035 C4.65685425,27.7502035 6,29.0933492 6,30.7502035 L6,128.18278 C6,129.839634 4.65685425,131.18278 3,131.18278 C1.34314575,131.18278 2.02906125e-16,129.839634 0,128.18278 L0,30.7502035 C-2.02906125e-16,29.0933492 1.34314575,27.7502035 3,27.7502035 Z" id="Bar" fill="#2E5BFF"></path>
+                            <rect id="Bar" fill="#8C54FF" x="11.6216746" y="0" width="6" height="131.18278" rx="3"></rect>
+                        </g>
+                        <g id="Group-9" transform="translate(58.730047, 71.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="22.704712" width="6" height="84.6266536" rx="3"></rect>
+                            <rect id="Bar" fill="#8C54FF" x="11.6216746" y="0" width="6" height="107.331366" rx="3"></rect>
+                        </g>
+                        <g id="Group-9" transform="translate(181.701996, 0.000000)">
+                            <rect id="Bar" fill="#2E5BFF" x="0" y="14.9138495" width="6" height="163.058088" rx="3"></rect>
+                            <path d="M13.2918312,0 C14.9486855,-3.04359188e-16 16.2918312,1.34314575 16.2918312,3 L16.2918312,174.971938 C16.2918312,176.628792 14.9486855,177.971938 13.2918312,177.971938 C11.634977,177.971938 10.2918312,176.628792 10.2918312,174.971938 L10.2918312,3 C10.2918312,1.34314575 11.634977,3.04359188e-16 13.2918312,0 Z" id="Bar" fill="#8C54FF"></path>
+                        </g>
+                    </g>
+                    <g id="Chart-Figure" transform="translate(71.000000, 52.000000)" stroke="#F7C137" stroke-width="2">
+                        <polyline id="Path-4" points="4.19298246 42 63.6929825 79 124.192982 51.5 184.692982 3.5"></polyline>
+                        <circle id="Oval" fill="#FFFFFF" cx="4" cy="41" r="3"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="63.5834564" cy="78" r="3"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="124.180207" cy="50" r="3"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="185.180207" cy="4" r="3"></circle>
+                    </g>
+                    <g id="Legend" transform="translate(7.000000, 0.000000)">
+                        <g id="Group-3">
+                            <text id="Comfort" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Comfort</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#2E5BFF" cx="5" cy="11" r="5"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(100.000000, 0.000000)">
+                            <text id="Premium" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Premium</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#8C54FF" cx="5" cy="11" r="5"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(202.000000, 0.000000)">
+                            <text id="Average" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="18" y="14">Average</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#FAD050" cx="5" cy="11" r="5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

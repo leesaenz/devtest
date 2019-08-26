@@ -9,11 +9,14 @@ function Dashboard() {
                 <h3 className="content-header">Analytics</h3>
                     <div className="row no-pad">
                         <div className="card large col-full">
-                        <div className="card-label">
+                            <div className="card-label">
                                 <h5>Revenue</h5>
-                                <NavLink exact to="/"><i className="icon icon-options"></i></NavLink>
+                                <NavLink exact to="/"><i className="icon icon-options"></i></NavLink> 
                             </div>
-                        </div>
+                            <img className="card-img desktop" src="/img/line-chart-desktop.svg" alt="Desktop Line Chart" />
+                            <img className="card-img tablet" src="/img/line-chart-tablet.svg" alt="Tablet Line Chart" />
+                            <img className="card-img mobile" src="/img/line-chart-mobile.svg" alt="Mobile Line Chart" />
+                        </div>    
                     </div>
                     
                     <div className="row no-pad">
@@ -131,10 +134,13 @@ function Dashboard() {
                             </ul>
                         </div>
                         <div className="card large col-two-third">
-                        <div className="card-label">
+                            <div className="card-label">
                                 <h5>Trips by Weekday</h5>
                                 <NavLink exact to="/"><i className="icon icon-options"></i></NavLink>
                             </div>
+                            <img className="card-img desktop" src="/img/bar-chart-desktop.svg" alt="Desktop Bar Chart" />
+                            <img className="card-img tablet" src="/img/bar-chart-tablet.svg" alt="Tablet Bar Chart" />
+                            <img className="card-img mobile" src="/img/bar-chart-mobile.svg" alt="Mobile Bar Chart" />
                         </div>
                     </div>
 

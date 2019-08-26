@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="293px" height="262px" viewBox="0 0 293 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Module/Card/Line Chart #2 Mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8C54FF" offset="4.45944725%"></stop>
+            <stop stop-color="#8C54FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="4.45944725%" x2="50%" y2="97.0510311%" id="linearGradient-2">
+            <stop stop-color="#2E5BFF" offset="0%"></stop>
+            <stop stop-color="#2E5BFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Module/Card/Line-Chart-#2-Mobile" transform="translate(-16.000000, -74.000000)">
+            <g transform="translate(15.000000, 70.000000)" id="Group">
+                <g>
+                    <g id="Grid" transform="translate(37.023736, 36.834423)" stroke-linecap="square">
+                        <g id="vertical" opacity="0.5" transform="translate(61.713106, 1.122728)" stroke="#8097B1" stroke-dasharray="2,2,2" stroke-width="0.5">
+                            <path d="M0.25,0.825837087 L0.25,206.955904" id="Line-1" opacity="0.606809701"></path>
+                            <path d="M61.0687135,0.825837087 L61.0687135,206.955904" id="Line-2" opacity="0.606809701"></path>
+                            <path d="M120.993034,0.825837087 L120.993034,206.955904" id="Line-3" opacity="0.606809701"></path>
+                            <path d="M181.811748,0.825837087 L181.811748,206.955904" id="Line-4" opacity="0.606809701"></path>
+                        </g>
+                        <g id="horizontal" opacity="0.5" transform="translate(0.894393, 0.000000)" stroke="#8097B1" stroke-dasharray="2,2,2,2" stroke-width="0.5">
+                            <path d="M0.623947911,156.339874 L243.004409,156.339874" id="Line-3" opacity="0.756413246"></path>
+                            <path d="M0.207982637,102.44893 L242.588444,102.44893" id="Line-4" opacity="0.756413246"></path>
+                            <path d="M0.623947911,51.9261699 L243.004409,51.9261699" id="Line-5" opacity="0.756413246"></path>
+                            <path d="M0.207982637,1.40341 L242.588444,1.40341" id="Line-6" opacity="0.756413246"></path>
+                        </g>
+                        <path d="M0.447196422,2.3505207 L0.447196422,207.87396" id="Line" stroke="#E0E7FF"></path>
+                        <path d="M1.10237548,208.266044 L243.482836,208.266044" id="Line" stroke="#E0E7FF"></path>
+                    </g>
+                    <g id="Y-Axis-" transform="translate(0.000000, 30.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                        <text id="25">
+                            <tspan x="9.16701754" y="164">25</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="17.3120175" y="216">0</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="8.43201754" y="111">50</tspan>
+                        </text>
+                        <text id="75">
+                            <tspan x="10.2770175" y="61">75</tspan>
+                        </text>
+                        <text id="100">
+                            <tspan x="1.44201754" y="14">100</tspan>
+                        </text>
+                    </g>
+                    <g id="X-Axis" transform="translate(53.000000, 249.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                        <text id="Mar-1">
+                            <tspan x="0.855105049" y="14">Mar 1</tspan>
+                        </text>
+                        <text id="Mar-8">
+                            <tspan x="61.0075" y="14">Mar 8</tspan>
+                        </text>
+                        <text id="Mar-15">
+                            <tspan x="125.135" y="14">Mar 15</tspan>
+                        </text>
+                        <text id="Mar-22">
+                            <tspan x="195.0025" y="14">Mar 22</tspan>
+                        </text>
+                    </g>
+                    <g id="Chart-Figure" transform="translate(33.807018, 92.000000)">
+                        <polyline id="Path-3" fill="url(#linearGradient-1)" opacity="0.0799999982" points="5 124 53.6929825 92.5 100.692982 49 148.692982 89.5 198.192982 67.5 246.692982 24 246.692982 153 3.69246805 153 3.69246805 124.48248"></polyline>
+                        <polygon id="Path-3" fill="url(#linearGradient-2)" opacity="0.0799999982" points="52.1929825 124.5 101.192982 10 148.692982 72 197.692982 38 246.692982 4 246.692982 153 3.69246805 153 3.69246805 95.5"></polygon>
+                        <polyline id="Path-3" stroke="#8C54FF" stroke-width="2" stroke-linecap="round" points="5 124 53.6929825 92.5 100.692982 49 148.692982 89.5 198.192982 67.5 246.692982 24"></polyline>
+                        <polyline id="Path-2" stroke="#2E5BFF" stroke-width="2" stroke-linecap="round" points="5 97 52.1929825 124.5 101.192982 10.5 149.192982 72.5 197.192982 38 246.692982 3.5"></polyline>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="4" cy="96" r="3"></circle>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="52.1929825" cy="124" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="5" cy="124" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="53.1929825" cy="92" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="101.192982" cy="49" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="198.192982" cy="67" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="149.192982" cy="89" r="3"></circle>
+                        <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="246.192982" cy="25" r="3"></circle>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="101.192982" cy="10" r="3"></circle>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="197.192982" cy="38" r="3"></circle>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="149.192982" cy="72" r="3"></circle>
+                        <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="246.192982" cy="4" r="3"></circle>
+                    </g>
+                    <g id="Legend" transform="translate(121.807018, 0.000000)">
+                        <g id="Group-3">
+                            <text id="Revenue" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="20" y="14">Revenue</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#2E5BFF" cx="6" cy="10" r="6"></circle>
+                        </g>
+                        <g id="Group-3" transform="translate(104.000000, 0.000000)">
+                            <text id="Trips" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                                <tspan x="20" y="14">Trips</tspan>
+                            </text>
+                            <circle id="Oval-2" fill="#8C54FF" cx="6" cy="10" r="6"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
