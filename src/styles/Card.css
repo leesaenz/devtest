@@ -5,6 +5,47 @@
   font-weight: normal;
   font-style: normal; }
 
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 15px;
+  font-weight: 400; }
+
+h1 {
+  font-size: 3.2em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h2, h5, p {
+  color: #8698ae; }
+
+h2 {
+  font-size: 2.26em;
+  font-weight: 300; }
+
+h2.h1 {
+  font-size: 3.2em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h3 {
+  font-size: 1.86em;
+  font-weight: 300; }
+
+h3.content-header {
+  color: #2e384e;
+  margin-bottom: 0; }
+
+h4 {
+  font-weight: 500; }
+
+h5 {
+  font-size: 0.86em;
+  font-weight: 400;
+  text-transform: uppercase; }
+
+p {
+  font-size: 1em; }
+
 [data-icon]:before {
   font-family: "shapeshift" !important;
   content: attr(data-icon);
@@ -77,17 +118,16 @@
   max-height: 460px;
   height: auto;
   box-shadow: 0 10px 20px 0 rgba(46, 91, 255, 0.07);
-  flex-grow: 1; }
-  .card .spacer {
-    flex-grow: 1; }
+  flex-grow: 1;
+  margin: 30px 10px 0;
+  padding: 16px 24px; }
   .card.col-full {
     width: 100%;
     max-width: 1136px; }
   .card.col-half {
     width: 568px; }
   .card.col-quarter {
-    width: 264px;
-    margin: 10px 10px 0; }
+    width: 264px; }
   .card.col-third {
     width: 363px; }
   .card.col-two-third {
@@ -97,5 +137,67 @@
   .card.medium {
     height: 352px; }
   .card.small {
-    height: 176px;
-    margin-top: 24px; }
+    height: 176px; }
+  .card h2.h1 {
+    margin: 15px 0 0 0; }
+  .card p {
+    margin: 0; }
+  .card .card-header .card-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    display: flex;
+    align-items: center; }
+    .card .card-header .card-icon i {
+      margin: 0 auto;
+      font-size: 1.1em;
+      position: relative;
+      top: 2px; }
+  .card .card-label {
+    width: 100%;
+    height: 78px;
+    display: flex;
+    align-items: center; }
+    .card .card-label a {
+      margin-left: auto; }
+      .card .card-label a i {
+        color: #bfc5de; }
+  .card.vehicles .card-icon {
+    background-color: #e1f3df; }
+    .card.vehicles .card-icon i {
+      color: #2bae22; }
+  .card.distance .card-icon {
+    background-color: #d8f6f9; }
+    .card.distance .card-icon i {
+      color: #00c3d7; }
+  .card.energy .card-icon {
+    background-color: #eee5ff; }
+    .card.energy .card-icon i {
+      color: #8c4bff; }
+  .card.time .card-icon {
+    background-color: #fef6e1; }
+    .card.time .card-icon i {
+      color: #f8c21e; }
+
+.trip-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+  .trip-list .trip-item {
+    width: 100%;
+    clear: both;
+    overflow: hidden;
+    display: block;
+    margin: 10px 0; }
+    .trip-list .trip-item h4 {
+      margin: 5px 0;
+      width: 100%; }
+      .trip-list .trip-item h4 span {
+        float: right; }
+    .trip-list .trip-item .date,
+    .trip-list .trip-item .time {
+      display: inline-block; }
+    .trip-list .trip-item .time {
+      float: right; }

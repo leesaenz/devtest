@@ -5,6 +5,47 @@
   font-weight: normal;
   font-style: normal; }
 
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 15px;
+  font-weight: 400; }
+
+h1 {
+  font-size: 3.2em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h2, h5, p {
+  color: #8698ae; }
+
+h2 {
+  font-size: 2.26em;
+  font-weight: 300; }
+
+h2.h1 {
+  font-size: 3.2em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h3 {
+  font-size: 1.86em;
+  font-weight: 300; }
+
+h3.content-header {
+  color: #2e384e;
+  margin-bottom: 0; }
+
+h4 {
+  font-weight: 500; }
+
+h5 {
+  font-size: 0.86em;
+  font-weight: 400;
+  text-transform: uppercase; }
+
+p {
+  font-size: 1em; }
+
 [data-icon]:before {
   font-family: "shapeshift" !important;
   content: attr(data-icon);

@@ -6,7 +6,7 @@ header {
     width:100%;
     height:80px;
     border-bottom:1px solid $border;
-    padding-top:18px;
+    padding-top:12px;
     position: fixed;
     top: 0;
 
@@ -65,7 +65,7 @@ header {
                 padding:0 8px;
                 position:relative;
                 i {
-                    font-size:1.9em;
+                    font-size:1.6em;
                     color:$icon;
                 }
             }
@@ -90,7 +90,6 @@ header {
 @media only screen and (max-width:768px) {
 
     header {
-        padding-top:22px;
         nav.top-menu {
             .mobile-menu {
                 display:block;

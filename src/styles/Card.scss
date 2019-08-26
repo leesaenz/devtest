@@ -8,8 +8,8 @@
     height:auto;
     box-shadow: 0 10px 20px 0 rgba(46,91,255,0.07);
     flex-grow: 1;
-
-    .spacer {flex-grow:1;}
+    margin: 30px 10px 0;
+    padding:16px 24px;
 
     &.col-full {
         width:100%;
@@ -23,7 +23,6 @@
     &.col-quarter {
         
         width:264px;
-        margin: 10px 10px 0;
     }
 
     &.col-third {
@@ -44,6 +43,113 @@
 
     &.small {
         height:176px;
-        margin-top:24px;
+    }
+
+    h2.h1 {
+        margin:15px 0 0 0;
+    }
+
+    p {
+        margin:0;
+    }
+
+    .card-header {
+
+        .card-icon {
+            width:48px;
+            height:48px;
+            border-radius:50%;
+            display:block;
+            text-align:center;
+            display:flex;
+            align-items: center;
+    
+            i {
+                margin:0 auto;
+                font-size:1.1em;
+                position:relative;
+                top:2px;
+            }
+        }
+    }
+
+    .card-label {
+        width: 100%;
+        height: 78px;
+        display: flex;
+        align-items: center;
+
+        a {
+            margin-left:auto;
+
+            i {
+                color:$icon;
+            }
+        }
+    }
+
+    &.vehicles {
+        .card-icon {
+            background-color:$avocado;
+            i {
+                color:$lime;
+            }
+        }
+    }
+    &.distance {
+        .card-icon {
+            background-color:$sky;
+            i {
+                color:$teal;
+            }
+        }
+    }
+    &.energy {
+        .card-icon {
+            background-color:$lavendar;
+            i {
+                color:$plum;
+            }
+        }
+    }
+    &.time {
+        .card-icon {
+            background-color:$sunlight;
+            i {
+                color:$honey;
+            }
+        }
+    }
+}
+
+.trip-list {
+    margin:0;
+    padding:0;
+    list-style-type: none;
+
+    .trip-item {
+        width:100%;
+        clear:both;
+        overflow:hidden;
+        display:block;
+        margin:10px 0;
+
+        h4 {
+            margin:5px 0;
+            width:100%;
+
+            span {
+                float:right;
+            }
+        }
+
+        .date,
+        .time {
+            display:inline-block;
+        }
+
+        .time {
+            float:right;
+        }
     }
 }
