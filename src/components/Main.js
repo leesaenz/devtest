@@ -7,6 +7,7 @@ import Service from './Service'
 import Locations from './Locations'
 import Contact from './Contact'
 import Settings from './Settings'
+import '../styles/Main.css'
 
 const Main = () => (
   <main className="content">

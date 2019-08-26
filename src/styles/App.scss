@@ -9,3 +9,11 @@ html,body {
 body {
     background-color: $background;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+.content-header {
+    margin-bottom:20px;
+}

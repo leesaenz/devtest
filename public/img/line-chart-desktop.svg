@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1136px" height="460px" viewBox="0 0 1136 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Module/Card/Line Chart Large</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1148.90909" height="453.947368" rx="1"></rect>
+        <filter x="-3.0%" y="-5.5%" width="106.1%" height="115.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#2E5BFF" offset="0%"></stop>
+            <stop stop-color="#2E5BFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#8C54FF" offset="0%"></stop>
+            <stop stop-color="#8C54FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Module/Card/Line-Chart-Large" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="Component/Card/Card-with-Header">
+                <g id="Card">
+                    <g id="Element/Card/Base">
+                        <g id="Card-Base" fill="black" fill-opacity="1">
+                            <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                        <rect id="Card-Base" stroke-opacity="0.08" stroke="#2E5BFF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="1135" height="459" rx="1"></rect>
+                    </g>
+                    <g id="Top-Bar" transform="translate(24.000000, 32.000000)" fill="#8798AD" font-family="Rubik-Regular, Rubik" font-size="13" font-weight="normal" letter-spacing="1.213333">
+                        <text id="Fleet-activity-map">
+                            <tspan x="0" y="12">REVENUE</tspan>
+                        </text>
+                    </g>
+                    <g id="Element/Icon/Options" transform="translate(1096.000000, 32.000000)" fill="#BFC5D2">
+                        <path d="M2,6.5 C2.82842712,6.5 3.5,7.17157288 3.5,8 C3.5,8.82842712 2.82842712,9.5 2,9.5 C1.17157288,9.5 0.5,8.82842712 0.5,8 C0.5,7.17157288 1.17157288,6.5 2,6.5 Z M8,6.5 C8.82842712,6.5 9.5,7.17157288 9.5,8 C9.5,8.82842712 8.82842712,9.5 8,9.5 C7.17157288,9.5 6.5,8.82842712 6.5,8 C6.5,7.17157288 7.17157288,6.5 8,6.5 Z M14,6.5 C14.8284271,6.5 15.5,7.17157288 15.5,8 C15.5,8.82842712 14.8284271,9.5 14,9.5 C13.1715729,9.5 12.5,8.82842712 12.5,8 C12.5,7.17157288 13.1715729,6.5 14,6.5 Z" id="🎨-Icon-color"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Grid" transform="translate(77.000000, 112.000000)" stroke-linecap="square">
+                <g id="vertical" opacity="0.5" transform="translate(60.763209, 1.000000)" stroke="#8097B1" stroke-dasharray="2,2,2" stroke-width="0.5">
+                    <path d="M1.01272016,0.739990234 L1.01272016,274.333074" id="Line-1" opacity="0.606809701"></path>
+                    <path d="M61.7759295,0.739990234 L61.7759295,274.333074" id="Line-2" opacity="0.606809701"></path>
+                    <path d="M122.539139,0.739990234 L122.539139,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M183.302348,0.739990234 L183.302348,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M244.065558,0.739990234 L244.065558,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M304.828767,0.739990234 L304.828767,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M365.591977,0.739990234 L365.591977,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M426.355186,0.74 L426.355186,274.333074" id="Line-4" opacity="0.606809701"></path>
+                    <path d="M487.118395,0.739990234 L487.118395,274.333074" id="Line-1" opacity="0.606809701"></path>
+                    <path d="M547.881605,0.739990234 L547.881605,274.333074" id="Line-2" opacity="0.606809701"></path>
+                    <path d="M608.644814,0.739990234 L608.644814,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M669.408023,0.739990234 L669.408023,274.333074" id="Line-2" opacity="0.606809701"></path>
+                    <path d="M730.171233,0.739990234 L730.171233,274.333074" id="Line-3" opacity="0.606809701"></path>
+                    <path d="M790.934442,0.74 L790.934442,274.333074" id="Line-4" opacity="0.606809701"></path>
+                    <path d="M851.697652,0.739990234 L851.697652,274.333074" id="Line-1" opacity="0.606809701"></path>
+                    <path d="M912.460861,0.739990234 L912.460861,274.333074" id="Line-2" opacity="0.606809701"></path>
+                    <path d="M973.22407,0.739990234 L973.22407,274.333074" id="Line-3" opacity="0.606809701"></path>
+                </g>
+                <g id="horizontal" opacity="0.5" transform="translate(2.025440, 0.000000)" stroke="#8097B1" stroke-dasharray="2,2,2,2" stroke-width="0.5">
+                    <path d="M2.00345793,228.25 L1032.18275,228.25" id="Line-3" opacity="0.756413246"></path>
+                    <path d="M0.235498539,183.25 L1030.41479,183.25" id="Line-4" opacity="0.756413246"></path>
+                    <path d="M2.00345793,137.25 L1032.18275,137.25" id="Line-5" opacity="0.756413246"></path>
+                    <path d="M0.235498539,91.25 L1030.41479,91.25" id="Line-6" opacity="0.756413246"></path>
+                    <path d="M2.00345793,46.25 L1032.18275,46.25" id="Line-5" opacity="0.756413246"></path>
+                    <path d="M0.235498539,1.25 L1030.41495,1.25" id="Line-6" opacity="0.756413246"></path>
+                </g>
+                <path d="M1.51908023,1.09002686 L1.51908023,274.590027" id="Line" stroke="#E0E7FF"></path>
+                <path d="M2.26093885,274.5 L1032.44023,274.5" id="Line" stroke="#E0E7FF"></path>
+            </g>
+            <g id="Numbers" transform="translate(24.000000, 106.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                <text id="$5k">
+                    <tspan x="10.2" y="239">$5k</tspan>
+                </text>
+                <text id="0">
+                    <tspan x="26.505" y="284">0</tspan>
+                </text>
+                <text id="$10k">
+                    <tspan x="3.21" y="194">$10k</tspan>
+                </text>
+                <text id="$15k">
+                    <tspan x="3.825" y="149">$15k</tspan>
+                </text>
+                <text id="$20k">
+                    <tspan x="0.825" y="104">$20k</tspan>
+                </text>
+                <text id="$25k">
+                    <tspan x="1.44" y="59">$25k</tspan>
+                </text>
+                <text id="$30k">
+                    <tspan x="0.615" y="14">$30k</tspan>
+                </text>
+            </g>
+            <g id="Dates" transform="translate(107.000000, 395.000000)" fill="#B0BAC9" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22">
+                <text id="Mar-1">
+                    <tspan x="0.075" y="14">Mar 1</tspan>
+                </text>
+                <text id="Mar-8">
+                    <tspan x="63.0075" y="14">Mar 8</tspan>
+                </text>
+                <text id="Mar-15">
+                    <tspan x="132.135" y="14">Mar 15</tspan>
+                </text>
+                <text id="Mar-22">
+                    <tspan x="205.0025" y="14">Mar 22</tspan>
+                </text>
+                <text id="Mar-29">
+                    <tspan x="283.45" y="14">Mar 29</tspan>
+                </text>
+                <text id="Apr-5">
+                    <tspan x="360.43" y="14">Apr 5</tspan>
+                </text>
+                <text id="Apr-12">
+                    <tspan x="429.3025" y="14">Apr 12</tspan>
+                </text>
+                <text id="Apr-19">
+                    <tspan x="501.25" y="14">Apr 19</tspan>
+                </text>
+                <text id="Apr-26">
+                    <tspan x="575.49" y="14">Apr 26</tspan>
+                </text>
+                <text id="May-2">
+                    <tspan x="652.085" y="14">May 2</tspan>
+                </text>
+                <text id="May-9">
+                    <tspan x="724.0325" y="14">May 9</tspan>
+                </text>
+                <text id="May-16">
+                    <tspan x="795.2775" y="14">May 16</tspan>
+                </text>
+                <text id="May-23">
+                    <tspan x="873.1" y="14">May 23</tspan>
+                </text>
+                <text id="May-30">
+                    <tspan x="953.2325" y="14">May 30</tspan>
+                </text>
+            </g>
+            <g id="Legend" transform="translate(955.000000, 81.000000)">
+                <g id="Group-3">
+                    <text id="Revenue" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                        <tspan x="19" y="14">Revenue</tspan>
+                    </text>
+                    <circle id="Oval-2" fill="#2E5BFF" cx="5" cy="11" r="5"></circle>
+                </g>
+                <g id="Group-3" transform="translate(103.000000, 0.000000)">
+                    <text id="Trips" font-family="Rubik-Regular, Rubik" font-size="15" font-weight="normal" line-spacing="22" fill="#8798AD">
+                        <tspan x="19" y="14">Trips</tspan>
+                    </text>
+                    <circle id="Oval-2" fill="#8C54FF" cx="5" cy="11" r="5"></circle>
+                </g>
+            </g>
+            <g id="Chart-Figure" transform="translate(77.000000, 140.000000)">
+                <g id="Blue">
+                    <polyline id="Path-5" fill-opacity="0.100000001" fill="url(#linearGradient-3)" points="4.04284323 174.5 63.6747809 142 125.32814 161.5 186.476144 103.5 246.108082 31.5 307.761441 47.5 366.888023 97 428.541383 128 489.184031 95 547.805258 82.5 609.963973 24 670.606621 69.5 732.259981 142 791.891918 165 854.050633 99.25 913.177215 3.5 972.809153 47.5 1034.46251 54.5 1034.46251 248.016149 4.04284323 248.016149"></polyline>
+                    <polyline id="Path-5" stroke="#2E5BFF" stroke-width="2" points="4.04284323 174.5 63.6747809 142 125.32814 161.5 186.476144 103.5 246.108082 31.5 307.761441 47.5 366.888023 97 428.541383 128 489.184031 95 547.805258 82.5 609.963973 24 670.606621 69.5 732.259981 142 791.891918 165 854.050633 99.25 913.177215 3.5 972.809153 47.5 1034.46251 54.5"></polyline>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="4.04284323" cy="174" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="63.6747809" cy="143" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="125.32814" cy="161" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="246.613437" cy="32" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="184.960078" cy="105" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="307.256086" cy="47" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="366.888023" cy="97" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="429.552093" cy="128" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="489.184031" cy="95" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="547.805258" cy="82" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="610.469328" cy="25" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="671.111977" cy="70" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="730.743914" cy="141" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="791.386563" cy="164" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="854.050633" cy="99" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="913.682571" cy="4" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="972.303797" cy="47" r="3"></circle>
+                    <circle id="Oval" stroke="#2E5BFF" stroke-width="2" fill="#FFFFFF" cx="1033.95716" cy="55" r="3"></circle>
+                </g>
+                <g id="Purple" transform="translate(0.000000, 39.000000)">
+                    <polyline id="Path-6" fill="url(#linearGradient-4)" opacity="0.100000001" points="4.54815175 170.5 64.1794747 164.5 123.810798 141 183.947471 148.5 246.105545 105.5 305.736868 89 368.400292 143.5 426.515564 129.75 488.673638 153.5 549.821012 85.5 609.957685 38 671.105058 45.5 731.241732 187.5 791.883755 145.5 852.525778 127.5 913.673152 3.5 974.315175 81.5 1035.46255 34 1035.46255 207.5 4.54815175 207.5"></polyline>
+                    <polyline id="Path-6" stroke="#8C54FF" stroke-width="2" points="4.54815175 170.5 64.1794747 164.5 123.810798 141 183.947471 148.5 246.105545 105.5 305.736868 89 368.400292 143.5 426.515564 129.75 488.673638 153.5 549.821012 85.5 609.957685 38 671.105058 45.5 731.241732 187.5 791.883755 145.5 852.525778 127.5 913.673152 3.5 974.315175 81.5 1035.46255 34"></polyline>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="1034.9572" cy="34" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="974.315175" cy="81" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="913.673152" cy="4" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="853.031128" cy="127" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="792.389105" cy="146" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="731.747082" cy="187" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="671.105058" cy="47" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="610.463035" cy="38" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="489.178988" cy="153" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="367.894942" cy="143" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="427.526265" cy="130" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="305.231518" cy="90" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="246.610895" cy="105" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="183.947471" cy="148" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="124.316148" cy="141" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="63.6741245" cy="164" r="3"></circle>
+                    <circle id="Oval" stroke="#8C54FF" stroke-width="2" fill="#FFFFFF" cx="4.04280156" cy="171" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

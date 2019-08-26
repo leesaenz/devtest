@@ -29,13 +29,14 @@ h2, h3, h4, p, caption {
 }
 
 h2 {
-    font-size:2.26em; //34pt
+    font-size:1.7em; //34pt
     font-weight:300;
 }
 
 h3 {
-    font-size: 1.86em; //28pt
+    font-size: 1.4em; //28pt
     font-weight:300;
+    color:$headerText;
 }
 
 h4 {
@@ -43,7 +44,7 @@ h4 {
 }
 
 caption {
-    font-size: 0.86em; //13pt
+    font-size: 0.65em; //13pt
     font-weight:400;
 }
 

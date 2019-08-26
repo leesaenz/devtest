@@ -20,18 +20,19 @@ h2, h3, h4, p, caption {
   color: #8698ae; }
 
 h2 {
-  font-size: 2.26em;
+  font-size: 1.7em;
   font-weight: 300; }
 
 h3 {
-  font-size: 1.86em;
-  font-weight: 300; }
+  font-size: 1.4em;
+  font-weight: 300;
+  color: #2e384e; }
 
 h4 {
   font-weight: 500; }
 
 caption {
-  font-size: 0.86em;
+  font-size: 0.65em;
   font-weight: 400; }
 
 [data-icon]:before {
@@ -99,3 +100,9 @@ html, body {
 
 body {
   background-color: #f3f5fc; }
+
+* {
+  box-sizing: border-box; }
+
+.content-header {
+  margin-bottom: 20px; }
