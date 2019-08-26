@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap");
+@font-face {
+  font-family: "shapeshift";
+  src: url("../fonts/shapeshift.eot");
+  src: url("../fonts/shapeshift.eot?#iefix") format("embedded-opentype"), url("../fonts/shapeshift.woff") format("woff"), url("../fonts/shapeshift.ttf") format("truetype"), url("../fonts/shapeshift.svg#shapeshift") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  font-weight: 400; }
+
+h1 {
+  font-size: 2.4em;
+  font-weight: 300;
+  color: #2e384e; }
+
+h2, h3, h4, p, caption {
+  color: #8698ae; }
+
+h2 {
+  font-size: 2.26em;
+  font-weight: 300; }
+
+h3 {
+  font-size: 1.86em;
+  font-weight: 300; }
+
+h4 {
+  font-weight: 500; }
+
+caption {
+  font-size: 0.86em;
+  font-weight: 400; }
+
+[data-icon]:before {
+  font-family: "shapeshift" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "shapeshift" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-analytics:before {
+  content: "\61"; }
+
+.icon-check:before {
+  content: "\62"; }
+
+.icon-dashboard:before {
+  content: "\63"; }
+
+.icon-dynamic:before {
+  content: "\64"; }
+
+.icon-email:before {
+  content: "\65"; }
+
+.icon-energy:before {
+  content: "\66"; }
+
+.icon-map:before {
+  content: "\67"; }
+
+.icon-marker:before {
+  content: "\68"; }
+
+.icon-options:before {
+  content: "\69"; }
+
+.icon-service:before {
+  content: "\6a"; }
+
+.icon-settings:before {
+  content: "\6b"; }
+
+.icon-vehicles:before {
+  content: "\6c"; }
+
+html, body {
+  height: 100%; }
+
+body {
+  background-color: #f3f5fc; }
